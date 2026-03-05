@@ -1,1 +1,1 @@
-![image alt]([https://github.com/KarlGoBrr/KarlGoBrr/blob/0aa2047f787b44ac569ab8c7c27862bf437a5c58/New%20Drawing%20-%202025-08-18T164458.203.png](https://github.com/KarlGoBrr/KarlGoBrr/blob/b28fca078dd3c93f67985ed5c160ba51dd100529/New%20Drawing%20(15).png))
+![image alt](New Drawing (15).png)
